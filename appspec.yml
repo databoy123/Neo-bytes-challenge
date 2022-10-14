@@ -1,5 +1,5 @@
 version: 18.04
 os: ubuntu
 files:
-  - source: /index.html
+  - source: /my_first_script.sh
     destination: /var/www/html/
